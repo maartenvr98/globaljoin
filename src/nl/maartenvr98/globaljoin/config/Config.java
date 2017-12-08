@@ -38,7 +38,7 @@ public class Config {
                         configuration.set("join", "&c[+] &7%player% joined the server");
                         configuration.set("leave", "&c[-] &7%player% leaved the server");
                         configuration.set("messages.permission-denied", "&c[globaljoin] &7You do not have permissions for this!");
-                        configuration.set("messages.reloaded", "&c[globaljoin] &7You have reloaded BungeeKickStop!");
+                        configuration.set("messages.reloaded", "&c[globaljoin] &7You have reloaded GlobalJoin!");
                         saveConfig();
                     }
                 }
